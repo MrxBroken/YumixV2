@@ -21,6 +21,6 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrxbroken/YumixV2"> <img src="https://img.shields.io/badge/LE BHAI DEPLOY KAR-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mrxbroken&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/mrxbroken011)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken011&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken)
+[<img src="https://github-readme-stats.vercel.app/api?username=mrxbroken&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/mrxbroken)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken)
 
 [<img src="https://github.com/mrxbroken/mrxbroken/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken)
