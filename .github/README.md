@@ -1,11 +1,12 @@
 [<img src="https://github.com/mrxbroken/mrxbroken/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken)
 
  <h1>
-  <height="100px" width="90px"> 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗹𝗹 𝗜𝗻 𝗢𝗻𝗲 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 </h1>
-<p align="center">
+  <height="100px" width="90px"> 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗹𝗹 𝗜𝗻 𝗢𝗻𝗲 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 
+  </h1> <p align="center">
     
- -->    <img align="middle" src="https://profile-counter.glitch.me/mrxbroken/count.svg" />
-</p>
+<h2>
+<height="90px" width="100px">
+ TELEGRAM CHANNEL ➡️ [BROKEN X NETWORK](https:t.me/brokenxnetwork) </h2>
 
 [<img src="https://github.com/mrxbroken/mrxbroken/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken)
 
