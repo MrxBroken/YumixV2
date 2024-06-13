@@ -6,7 +6,8 @@
     
 <h2>
 <height="90px" width="100px">
- TELEGRAM CHANNEL ➡️ [BROKEN X NETWORK](https:t.me/brokenxnetwork) </h2>
+ TELEGRAM CHANNEL ➡ [BROKEN X NETWORK](https:t.me/brokenxnetwork) 
+</h2>
 
 [<img src="https://github.com/mrxbroken/mrxbroken/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken)
 
