@@ -14,15 +14,15 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","aboutbrokenx")
+OWNER_USERNAME = getenv("OWNER_USERNAME","aboutbrokenx") #fill owner user name
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Miss_YumiPro_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Miss_YumiPro_Bot") #fill bot username
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "‣ Mɪss Yᴜᴍɪ Pʀᴏ⋆ ᴠ𝟸.𝟶")
+BOT_NAME = getenv("BOT_NAME" , "‣ Mɪss Yᴜᴍɪ Pʀᴏ⋆ ᴠ𝟸.𝟶") #fill bot name
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Assis_yumi")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Assis_yumi") #assistant username
 # ---------------------------------------------------------
-DEEP_API = getenv("DEEP_API" , "5163c49d-b696-47f1-8cf9-4801738436dd") 
+DEEP_API = getenv("DEEP_API" , None)          #get this from deepai.org
 #----------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
@@ -35,13 +35,13 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002215966837))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002215966837))       #logger id
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 1841914911))
+OWNER_ID = int(getenv("OWNER_ID", 1841914911))                # fill    owner id    
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
-
+# ----------------MR---X---BROKEN---------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/mrxbroken011/MISSYUMIxAI.git",
+    "https://github.com/mrxbroken/YUMIxV2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,7 +67,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/brokenxnetwork")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/brokenxnetwork")  
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7yFRvkorUdFiZTll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
