@@ -4,8 +4,9 @@
   <height="100px" width="90px"> 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗹𝗹 𝗜𝗻 𝗢𝗻𝗲 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 
  </p> 
 
-    
-<height="90px" width="100px">TELEGRAM CHANNEL ➡ [BROKEN X NETWORK](https:t.me/brokenxnetwork)  
+
+
+🔐 [BROKEN X NETWORK](https:t.me/brokenxnetwork)  
 
 
 [<img src="https://github.com/mrxbroken/mrxbroken/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken)
