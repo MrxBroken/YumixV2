@@ -5,7 +5,7 @@
   </h1> <p align="center">
     
 <h2>
-<height="90px" width="100px">
+
  TELEGRAM CHANNEL ➡ [BROKEN X NETWORK](https:t.me/brokenxnetwork) 
 </h2>
 
